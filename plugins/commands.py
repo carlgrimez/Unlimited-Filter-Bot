@@ -217,8 +217,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("My Dev", url="https://t.me/Rahulthrilok")
-                    InlineKeyboardButton("Support Chat", url="https://t.me/Seriesloverskerala")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
                 ]
             ]
         ),
